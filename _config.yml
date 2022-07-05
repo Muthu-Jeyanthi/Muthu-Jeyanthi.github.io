@@ -1,3 +1,4 @@
+theme: jekyll-theme-minimal
 title: <p align="center"> Muthu Jeyanthi Prakash </p>
 logo: "/profile/profile_pic.jpeg?raw=true"
 description:
@@ -10,4 +11,4 @@ description:
   I am a Masters in Neuroscience graduate with an interest in predictive analytics and visualization using healthcare data, especially neurophysiological signals. 
   </p>
   
-theme: jekyll-theme-minimal
+
