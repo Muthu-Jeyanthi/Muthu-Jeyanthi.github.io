@@ -2,6 +2,6 @@
 ---
 ## Data Science
 
-### Predictiong hand poses from ECoG signals
+### Predicting hand poses from ECoG signals
 
 
