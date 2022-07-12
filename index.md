@@ -8,7 +8,7 @@
 <br>
 <center><img src="assets/img/Ecog_image.png"/></center>
 <br>
----
+------------------------------------------------------------------------
 ## Analysis of functional connectivity during decision making
 
 [![Open in Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1M5IMT_tHCCJsNaUBW8HTD7BAocNGj_HU?usp=sharing)
