@@ -9,7 +9,7 @@
 <center><img src="assets/img/Ecog_image.png"/></center>
 
 ---
-## Analysis of functional connectivity during decision making
+## Functional connectivity during decision making
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1M5IMT_tHCCJsNaUBW8HTD7BAocNGj_HU?usp=sharing)
 
