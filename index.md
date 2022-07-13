@@ -5,9 +5,8 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16yHW17_wBuQALTkcY8qOw7K1NHWaGM5-?usp=sharing)
 
 <div style="text-align: justify">A multi-class classification model to predict Hand poses of the famous Rock, Paper, Scissors game using electrocorticography signals. The model achieved 96% accuracy in classification using minimal pre-processing which makes it suitable for realtime prediction.</div> 
-<br>
-<center><img src="assets/img/Ecog_image.png"/></center>
 
+<center><img src="assets/img/Ecog_image.png"/></center>
 ---
 ## Functional connectivity during decision making
 
