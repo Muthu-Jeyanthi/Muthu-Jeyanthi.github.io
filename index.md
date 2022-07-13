@@ -8,6 +8,7 @@
 
 <center><img src="assets/img/Ecog_image.png"/></center>
 <br>
+
 ---
 ## Functional connectivity during decision making
 
@@ -17,4 +18,5 @@
 
 <center><img src="assets/img/results_rep.png"/></center>
 <br>
+
 ---
