@@ -16,7 +16,7 @@
 
 <div style="text-align: justify"> Functional connectivity was explored using correlation analyses between secondary motor cortex (MOs) and two other brain areas: Prelimbic area (PL) and Midbrain Reticular Nucleus (MRN) during decision making in mice. The results revealed the synchronization of particular frequency bands between the brain areas choice selection. This project was performed as part of Computational Neuroscience summer school (2020) organized by Neuromatch Academy.  </div> 
 
-<center><img src="assets/img/results_rep.png"/></center>
+<center><img src="assets/img/results_rep.png"/ width="1200" height="600"></center>
 <br>
 
 ---
