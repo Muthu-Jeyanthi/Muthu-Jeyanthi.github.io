@@ -20,3 +20,15 @@
 <br>
 
 ---
+## Synchronization of electrophysiological and video data 
+
+[![Presentation](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/design/DAEe__tcT0g/VW-kS9qyRiaFxtj_8aslNg/view?utm_content=DAEe__tcT0g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton#9)
+
+<div style="text-align: justify"> The goal of this project was to set up a synchronization pipeline for the electrophysiological and behavioural data from rodent experiments. My contribution involved writing python scripts using signal processing and computer vision principles to extract information and performing windowed time-lagged cross correlation for synchronization. This project was performed as part of a remote internship at Genzel lab in Radboud University. </div>
+
+
+<center><img src="assets/img/synchro_pic.png"/></center>
+<br>
+
+---
+
