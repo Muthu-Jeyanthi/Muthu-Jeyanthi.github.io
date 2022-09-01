@@ -33,3 +33,11 @@
 
 ---
 
+## Predicting reaction time from neuronal spikes
+
+[![Open In Colab](https://colab.research.google.com/drive/1Ln2_1xHT5YR5IlaZA-C1Lv9Saznco5A2?usp=sharing)
+
+<div style="text-align: justify"> We tested the possibility of predicting time taken to react by mice to turn a wheel in response to a visual stimuli based on visual cortex activity using Principle Component Regression. The results showed the information in the visual cortex is inadequate to predict reaction times. This project was performed as part of Computational Neuroscience summer school (2021) organized by Neuromatch Academy.  </div> 
+
+<center><img src="assets/img/PCR.png"/></center>
+<br>
