@@ -45,7 +45,7 @@
 ---
 ## Linear Mixed Model Analysis - a short intro
 
-[![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](https://1drv.ms/p/s!AgbbRljQ3mqkgr0BLviW0uCHiZp6bw?e=YBygE5)
+[![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=powerpoint&logoColor=white)](https://docs.google.com/presentation/d/1pk9yivjjvHDIHv6rEC5so_Hn7FGyOFXd/edit?usp=sharing&ouid=112117390706661517539&rtpof=true&sd=true)
 
 <div style="text-align: justify"> I have explained the need to use Linear mixed model analysis in a biological expeirment to account for the inter-animal differences that could alter the effect of a treatment. The presentation includes a step by step presentation to perform the anlaysis in R package lme4 and JASP software. A comparison of the results obtained in both is also included.  </div> 
 
