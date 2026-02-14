@@ -2,9 +2,12 @@ title: Muthu Jeyanthi Prakash
 description: Doctoral researcher in Computational Neuroscience
 theme: minima
 
-header_pages:
-  - index.md
-  - projects.md
-  - cv.md
-  - blog.md
+minima:
+  skin: classic
+  nav_pages:
+    - index.md
+    - projects.md
+    - cv.md
+    - blog.md
+
 
