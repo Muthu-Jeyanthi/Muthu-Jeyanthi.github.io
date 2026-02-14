@@ -1,18 +1,5 @@
-title: <p> Muthu Jeyanthi Prakash </p>
-description:
-  <p align="center">
-  <a href="profile/Prakash_resume.pdf">Resume</a> |
-  <a href="https://www.linkedin.com/in/muthu-jeyanthi/">LinkedIn</a> |
-  <a href="https://github.com/Muthu-Jeyanthi">GitHub</a>
-  </p>
-  
-  <p align="justify">
-  I am a Doctoral researcher in Computational Neuroscience who enjoys applying Data Science concepts to neural data.
-  <br><br>
-  I love to learn by doing mini-projects which I've compiled under the portfolio section along with internship and hackathon projects. 
-  <br><br>
-  </p>
-  
+title: Muthu Jeyanthi Prakash
+description: Doctoral researcher in Computational Neuroscience
 theme: minima
 
 header_pages:
@@ -20,3 +7,4 @@ header_pages:
   - projects.md
   - cv.md
   - blog.md
+
