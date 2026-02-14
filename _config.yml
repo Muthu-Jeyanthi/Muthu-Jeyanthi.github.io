@@ -16,5 +16,6 @@ description:
 theme: jekyll-theme-minimal
 
 header_pages:
+  - index.md
   - projects.md
   - cv.md
