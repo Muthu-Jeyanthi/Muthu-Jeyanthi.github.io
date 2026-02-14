@@ -1,3 +1,10 @@
+---
+layout: page
+title: Projects
+permalink: /projects/
+---
+
+
 # Portfolio
 ---
 ## Hand pose prediction from ECoG signals
