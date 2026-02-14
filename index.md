@@ -1,3 +1,3 @@
 Explore:
-- [Projects](/projects/)
-- [CV](/cv/)
+- [Projects](projects.md)
+- [CV](cv.md)
