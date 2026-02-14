@@ -1,4 +1,4 @@
-title: <p align="center"> Muthu Jeyanthi Prakash </p>
+title: <p> Muthu Jeyanthi Prakash </p>
 description:
   <p align="center">
   <a href="profile/Prakash_resume.pdf">Resume</a> |
@@ -13,9 +13,10 @@ description:
   <br><br>
   </p>
   
-theme: jekyll-theme-minimal
+theme: minima
 
 header_pages:
   - index.md
   - projects.md
   - cv.md
+  - blog.md
