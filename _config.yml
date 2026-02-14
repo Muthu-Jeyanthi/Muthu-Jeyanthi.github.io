@@ -14,3 +14,7 @@ description:
   </p>
   
 theme: jekyll-theme-minimal
+
+header_pages:
+  - projects.md
+  - cv.md
