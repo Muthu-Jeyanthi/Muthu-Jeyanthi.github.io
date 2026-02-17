@@ -1,5 +1,14 @@
 # Portfolio
 ---
+## EEG time series classificaiton using Convolutional Neural Network model (in progress)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1Zj6zug8tGUFRqtK31Rd6_F_dxpGz_Doo/view?usp=sharing)
+
+<div style="text-align: justify">A CNN model trained to classify between control and Alzheimer's disease group using 5 second amplitude signals from 19-channel scalp EEG data, following different frequency bands. The first version of the model with two convolutional layers achieved 53.97 % validation accuracy establishing baseline performance. Future iterations will optimize convolutional depth, filter counts, learning rate etc and also imformation contained in different bands to improve decoding performance.</div> 
+
+<center><img src="assets/img/ad_ftd_image.jpg"/></center>
+<br>
+---
 ## Hand pose prediction from ECoG signals
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16yHW17_wBuQALTkcY8qOw7K1NHWaGM5-?usp=sharing)
