@@ -8,9 +8,7 @@ description:
   </p>
   
   <p align="justify">
-  I am a PhD researcher in Computational Neuroscience at the University of Tübingen and a member of the International Max Planck Research School for Mental Mechanisms of Function and Dysfunction. My work involves human intracranial electrophysiology to study memory and visual processing. My doctoral training combines experimental neuroscience (human intracranial recordings using clinical electrophysiology systems) with quantitative analysis of neural data. 
-I develop careful analysis pipelines for single-neuron and local field potential recordings, drawing on signal processing methods (spectral analysis, connectivity measures) as well as decoding and dimensionality reduction based approaches.
-My broader goal is to understand brain function and developing insights that can help treat disorders.
+  I am a PhD researcher in Computational Neuroscience at the University of Tübingen and a member of the International Max Planck Research School for Mental Mechanisms of Function and Dysfunction. My work involves human intracranial electrophysiology to study memory and visual processing. My doctoral training combines experimental neuroscience (human intracranial recordings using electrophysiology systems) with quantitative analysis of neural data. I develop python pipelines empirical analysis and visualization using human single-neuron and local field potential recordings, employing signal processing methods (such as spectral analysis and connectivity measures) alongside decoding and dimensionality reduction approaches. Broadly, my goal is to apply data science principles to understand brain function from high-dimensional neural data and to generate insights that can inform treatments for neurological and psychiatric disorders.
   </p>
   
 theme: jekyll-theme-minimal
